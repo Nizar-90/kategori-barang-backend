@@ -1,9 +1,6 @@
 ## How To Install Node Module Dependency
 
-`npm install --save express`
-`npm install --save mysql`
-`npm install --save md5`
-`npm install --save body-parser`
+`npm install --save express mysql md5 body-parser`
 
 ## Set variable environtment
 
